@@ -1,3 +1,3 @@
 if game.PlaceId == 78779619 then
-  print("GRAND PIECE ONLINE")
+  print("GRAND PIECE ONLINE") loadstring(game:HttpGet("https://raw.githubusercontent.com/Zanexywex/request-map/main/Grand-Piece-online.lua"))();
 end
